@@ -6,9 +6,9 @@ The purpose of the project was to create a monster game using classes. The monst
 
 ## Technologies Learned:
 ```markdown
-array methods
-classes & class constructors
-Non-web server Node.js
+- array methods
+- classes & class constructors
+- Non-web server Node.js
 ```
 ## What I learned:
 This project introduced classes and class constructors. On top of that, it continued to build upon different array methods and objects. 
